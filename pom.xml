@@ -54,5 +54,10 @@
             <version>7.7.0</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-text</artifactId>
+            <version>1.9</version> <!-- Adjust the version number as needed -->
+        </dependency>
     </dependencies>
 </project>
